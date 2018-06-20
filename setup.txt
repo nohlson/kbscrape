@@ -1,0 +1,2 @@
+create np.p - list where [0] is username and [1] is password
+finished_kb.p - list that has already found kbs. starts as empty list
